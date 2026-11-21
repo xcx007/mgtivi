@@ -1,0 +1,1128 @@
+#EXTM3U
+
+# ===== 全部频道 =====
+#EXTINF:-1 tvg-chno="001" tvg-name="CCTV1高清" group-title="全部频道",CCTV1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="002" tvg-name="湖南卫视" group-title="全部频道",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="003" tvg-name="湖南卫视高清" group-title="全部频道",湖南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="004" tvg-name="湖南经视高清" group-title="全部频道",湖南经视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="005" tvg-name="湖南都市高清" group-title="全部频道",湖南都市高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="006" tvg-name="湖南电视剧高清" group-title="全部频道",湖南电视剧高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="007" tvg-name="湖南电影高清" group-title="全部频道",湖南电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="008" tvg-name="湖南娱乐高清" group-title="全部频道",湖南娱乐高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="009" tvg-name="金鹰纪实高清" group-title="全部频道",金鹰纪实高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="010" tvg-name="湖南爱晚高清" group-title="全部频道",湖南爱晚高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="011" tvg-name="湖南国际高清" group-title="全部频道",湖南国际高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047426/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="012" tvg-name="金鹰卡通高清" group-title="全部频道",金鹰卡通高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="013" tvg-name="快乐购高清" group-title="全部频道",快乐购高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047427/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="014" tvg-name="湖南教育高清" group-title="全部频道",湖南教育高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="037" tvg-name="CCTV2高清" group-title="全部频道",CCTV2高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="038" tvg-name="CCTV3高清" group-title="全部频道",CCTV3高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="039" tvg-name="CCTV4高清" group-title="全部频道",CCTV4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="040" tvg-name="CCTV5高清" group-title="全部频道",CCTV5高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="041" tvg-name="CCTV6高清" group-title="全部频道",CCTV6高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="042" tvg-name="CCTV7高清" group-title="全部频道",CCTV7高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="043" tvg-name="CCTV8高清" group-title="全部频道",CCTV8高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="044" tvg-name="CCTV9高清" group-title="全部频道",CCTV9高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="045" tvg-name="CCTV10高清" group-title="全部频道",CCTV10高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="046" tvg-name="CCTV11高清" group-title="全部频道",CCTV11高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="047" tvg-name="CCTV12高清" group-title="全部频道",CCTV12高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="048" tvg-name="CCTV13高清" group-title="全部频道",CCTV13高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="049" tvg-name="CCTV14高清" group-title="全部频道",CCTV14高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="050" tvg-name="CCTV15高清" group-title="全部频道",CCTV15高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="051" tvg-name="CCTV16" group-title="全部频道",CCTV16
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="052" tvg-name="CCTV17高清" group-title="全部频道",CCTV17高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="053" tvg-name="CCTV5+高清" group-title="全部频道",CCTV5+高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="054" tvg-name="CGTN" group-title="全部频道",CGTN
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="055" tvg-name="CGTN纪录" group-title="全部频道",CGTN纪录
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="057" tvg-name="CETV-1高清" group-title="全部频道",CETV-1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="061" tvg-name="江苏卫视" group-title="全部频道",江苏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="062" tvg-name="浙江卫视" group-title="全部频道",浙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="063" tvg-name="安徽卫视高清" group-title="全部频道",安徽卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="064" tvg-name="北京卫视" group-title="全部频道",北京卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="065" tvg-name="天津卫视高清" group-title="全部频道",天津卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="066" tvg-name="东方卫视" group-title="全部频道",东方卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="067" tvg-name="江西卫视高清" group-title="全部频道",江西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="068" tvg-name="深圳卫视" group-title="全部频道",深圳卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="069" tvg-name="辽宁卫视高清" group-title="全部频道",辽宁卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="070" tvg-name="东南卫视高清" group-title="全部频道",东南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="071" tvg-name="海南卫视高清" group-title="全部频道",海南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208265/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="072" tvg-name="广东卫视" group-title="全部频道",广东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="073" tvg-name="湖北卫视高清" group-title="全部频道",湖北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="074" tvg-name="广西卫视高清" group-title="全部频道",广西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="075" tvg-name="山东卫视" group-title="全部频道",山东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047448/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="076" tvg-name="四川卫视" group-title="全部频道",四川卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="077" tvg-name="重庆卫视高清" group-title="全部频道",重庆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="078" tvg-name="云南卫视高清" group-title="全部频道",云南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="079" tvg-name="河南卫视高清" group-title="全部频道",河南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="080" tvg-name="黑龙江卫视高清" group-title="全部频道",黑龙江卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="081" tvg-name="贵州卫视高清" group-title="全部频道",贵州卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="082" tvg-name="河北卫视高清" group-title="全部频道",河北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="083" tvg-name="吉林卫视高清" group-title="全部频道",吉林卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="084" tvg-name="陕西卫视高清" group-title="全部频道",陕西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="085" tvg-name="山西卫视高清" group-title="全部频道",山西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="086" tvg-name="内蒙古卫视高清" group-title="全部频道",内蒙古卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="087" tvg-name="宁夏卫视高清" group-title="全部频道",宁夏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="088" tvg-name="西藏卫视高清" group-title="全部频道",西藏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="089" tvg-name="新疆卫视高清" group-title="全部频道",新疆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="090" tvg-name="甘肃卫视高清" group-title="全部频道",甘肃卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="091" tvg-name="卡酷少儿高清" group-title="全部频道",卡酷少儿高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="092" tvg-name="优漫卡通" group-title="全部频道",优漫卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182321/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="093" tvg-name="青海卫视高清" group-title="全部频道",青海卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="096" tvg-name="山东教育" group-title="全部频道",山东教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007227/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="097" tvg-name="厦门卫视" group-title="全部频道",厦门卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381023/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="098" tvg-name="兵团卫视高清" group-title="全部频道",兵团卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381024/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="099" tvg-name="嘉佳卡通" group-title="全部频道",嘉佳卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381025/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="100" tvg-name="纪实科教高清" group-title="全部频道",纪实科教高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="109" tvg-name="CETV-2" group-title="全部频道",CETV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="110" tvg-name="CETV-4高清" group-title="全部频道",CETV-4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="135" tvg-name="娄底综合高清" group-title="全部频道",娄底综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401158/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="142" tvg-name="天元围棋高清" group-title="全部频道",天元围棋高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="143" tvg-name="梨园高清" group-title="全部频道",梨园高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308847/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="144" tvg-name="四海钓鱼高清" group-title="全部频道",四海钓鱼高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="145" tvg-name="快乐垂钓高清" group-title="全部频道",快乐垂钓高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="146" tvg-name="文物宝库高清" group-title="全部频道",文物宝库高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308848/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="151" tvg-name="优优宝贝" group-title="全部频道",优优宝贝
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040377/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="152" tvg-name="老故事" group-title="全部频道",老故事
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="154" tvg-name="财富天下高清" group-title="全部频道",财富天下高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040380/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="155" tvg-name="武术世界高清" group-title="全部频道",武术世界高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="156" tvg-name="家庭影院高清" group-title="全部频道",家庭影院高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="157" tvg-name="影迷电影高清" group-title="全部频道",影迷电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448841/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="158" tvg-name="动作电影高清" group-title="全部频道",动作电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="159" tvg-name="书画" group-title="全部频道",书画
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448843/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="162" tvg-name="环球旅游高清" group-title="全部频道",环球旅游高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="166" tvg-name="国学" group-title="全部频道",国学
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022110411133186725376756113972/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="169" tvg-name="卫生健康高清" group-title="全部频道",卫生健康高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047454/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="170" tvg-name="第一剧场" group-title="全部频道",第一剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="171" tvg-name="风云剧场" group-title="全部频道",风云剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="172" tvg-name="风云音乐" group-title="全部频道",风云音乐
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="173" tvg-name="风云足球" group-title="全部频道",风云足球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="174" tvg-name="怀旧剧场" group-title="全部频道",怀旧剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="175" tvg-name="女性时尚" group-title="全部频道",女性时尚
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244811/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="176" tvg-name="央视文化精品" group-title="全部频道",央视文化精品
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244810/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="177" tvg-name="世界地理" group-title="全部频道",世界地理
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="178" tvg-name="央视台球" group-title="全部频道",央视台球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244803/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="179" tvg-name="兵器科技" group-title="全部频道",兵器科技
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="180" tvg-name="电视指南" group-title="全部频道",电视指南
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244797/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="181" tvg-name="高尔夫网球" group-title="全部频道",高尔夫网球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="182" tvg-name="早期教育" group-title="全部频道",早期教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023060222354368427501888132813/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="183" tvg-name="中学生" group-title="全部频道",中学生
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398013/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="184" tvg-name="环球奇观" group-title="全部频道",环球奇观
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416181029613614091027931/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="186" tvg-name="多彩文体4K" group-title="全部频道",多彩文体4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="187" tvg-name="都市剧场高清" group-title="全部频道",都市剧场高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="188" tvg-name="动漫秀场高清" group-title="全部频道",动漫秀场高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="192" tvg-name="法治天地高清" group-title="全部频道",法治天地高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="193" tvg-name="金色学堂高清" group-title="全部频道",金色学堂高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="195" tvg-name="中国天气高清" group-title="全部频道",中国天气高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="196" tvg-name="游戏风云高清" group-title="全部频道",游戏风云高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="197" tvg-name="乐游高清" group-title="全部频道",乐游高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="198" tvg-name="生活时尚高清" group-title="全部频道",生活时尚高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="199" tvg-name="东方财经高清" group-title="全部频道",东方财经高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="202" tvg-name="湖南经视" group-title="全部频道",湖南经视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182567/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="203" tvg-name="湖南都市" group-title="全部频道",湖南都市
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182308/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="204" tvg-name="湖南电视剧" group-title="全部频道",湖南电视剧
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182309/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="205" tvg-name="湖南电影" group-title="全部频道",湖南电影
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182320/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="206" tvg-name="湖南娱乐" group-title="全部频道",湖南娱乐
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182313/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="207" tvg-name="金鹰纪实" group-title="全部频道",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182315/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="208" tvg-name="湖南爱晚" group-title="全部频道",湖南爱晚
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182310/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="209" tvg-name="湖南国际" group-title="全部频道",湖南国际
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182307/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="210" tvg-name="金鹰卡通" group-title="全部频道",金鹰卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182316/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="211" tvg-name="快乐购" group-title="全部频道",快乐购
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182544/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="212" tvg-name="湖南教育" group-title="全部频道",湖南教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104065/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="226" tvg-name="CCTV1" group-title="全部频道",CCTV1
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="227" tvg-name="CCTV2" group-title="全部频道",CCTV2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182301/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="228" tvg-name="CCTV3" group-title="全部频道",CCTV3
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047455/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="229" tvg-name="CCTV4" group-title="全部频道",CCTV4
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181629/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="230" tvg-name="CCTV5" group-title="全部频道",CCTV5
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047456/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="231" tvg-name="CCTV6" group-title="全部频道",CCTV6
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047457/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="232" tvg-name="CCTV7" group-title="全部频道",CCTV7
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181764/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="233" tvg-name="CCTV8" group-title="全部频道",CCTV8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047458/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="234" tvg-name="CCTV9" group-title="全部频道",CCTV9
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182545/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="235" tvg-name="CCTV10" group-title="全部频道",CCTV10
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182294/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="236" tvg-name="CCTV11" group-title="全部频道",CCTV11
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182300/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="237" tvg-name="CCTV12" group-title="全部频道",CCTV12
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181939/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="238" tvg-name="CCTV13" group-title="全部频道",CCTV13
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182324/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="239" tvg-name="CCTV14" group-title="全部频道",CCTV14
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181940/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="240" tvg-name="CCTV15" group-title="全部频道",CCTV15
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181941/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="242" tvg-name="CCTV17" group-title="全部频道",CCTV17
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024151/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="243" tvg-name="CCTV5+" group-title="全部频道",CCTV5+
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182561/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="245" tvg-name="CCTV4欧洲" group-title="全部频道",CCTV4欧洲
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="246" tvg-name="CCTV4美洲" group-title="全部频道",CCTV4美洲
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305581/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="247" tvg-name="CGTN西班牙语" group-title="全部频道",CGTN西班牙语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305582/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="248" tvg-name="CGTN法语" group-title="全部频道",CGTN法语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="249" tvg-name="CGTN阿拉伯语" group-title="全部频道",CGTN阿拉伯语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305587/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="250" tvg-name="CGTN俄语" group-title="全部频道",CGTN俄语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="253" tvg-name="安徽卫视" group-title="全部频道",安徽卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182280/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="255" tvg-name="天津卫视" group-title="全部频道",天津卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182588/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="257" tvg-name="江西卫视" group-title="全部频道",江西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182287/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="259" tvg-name="辽宁卫视" group-title="全部频道",辽宁卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000176343/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="260" tvg-name="东南卫视" group-title="全部频道",东南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182255/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="261" tvg-name="海南卫视" group-title="全部频道",海南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181765/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="263" tvg-name="湖北卫视" group-title="全部频道",湖北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182285/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="264" tvg-name="广西卫视" group-title="全部频道",广西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182256/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="267" tvg-name="重庆卫视" group-title="全部频道",重庆卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182258/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="268" tvg-name="云南卫视" group-title="全部频道",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182259/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="269" tvg-name="河南卫视" group-title="全部频道",河南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182260/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="270" tvg-name="黑龙江卫视" group-title="全部频道",黑龙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182571/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="271" tvg-name="贵州卫视" group-title="全部频道",贵州卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182262/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="272" tvg-name="河北卫视" group-title="全部频道",河北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182263/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="273" tvg-name="吉林卫视" group-title="全部频道",吉林卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182264/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="274" tvg-name="陕西卫视" group-title="全部频道",陕西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182270/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="280" tvg-name="甘肃卫视" group-title="全部频道",甘肃卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182276/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="281" tvg-name="卡酷少儿" group-title="全部频道",卡酷少儿
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182277/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="283" tvg-name="青海卫视" group-title="全部频道",青海卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182317/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="296" tvg-name="四川康巴卫视" group-title="全部频道",四川康巴卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000134000000367619/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="297" tvg-name="延边卫视" group-title="全部频道",延边卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023031709181220216556910725802/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="298" tvg-name="三沙卫视高清" group-title="全部频道",三沙卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="310" tvg-name="CCTV16 4K" group-title="全部频道",CCTV16 4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="311" tvg-name="CCTV4K" group-title="全部频道",CCTV4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="312" tvg-name="北京卫视4K" group-title="全部频道",北京卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025041016455754529971118212688/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="313" tvg-name="江苏卫视4K" group-title="全部频道",江苏卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="314" tvg-name="浙江卫视4K" group-title="全部频道",浙江卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262252695540491433081/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="317" tvg-name="东方卫视4K" group-title="全部频道",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="319" tvg-name="深圳卫视4K" group-title="全部频道",深圳卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216044934209640975946187/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="323" tvg-name="广东卫视4K" group-title="全部频道",广东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216045554851550640574941/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="326" tvg-name="山东卫视4K" group-title="全部频道",山东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="327" tvg-name="四川卫视4K" group-title="全部频道",四川卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698869/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="351" tvg-name="睛彩竞技高清" group-title="全部频道",睛彩竞技高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111555400855986165639/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="352" tvg-name="睛彩篮球高清" group-title="全部频道",睛彩篮球高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111668658815457769670/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="353" tvg-name="睛彩青少高清" group-title="全部频道",睛彩青少高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111656963850583145855/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="354" tvg-name="睛彩广场舞高清" group-title="全部频道",睛彩广场舞高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111537135226432583276/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="565" tvg-name="冷水江新闻综合高清" group-title="全部频道",冷水江新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609485691532201307235032/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+# ===== 芒果湖南 =====
+#EXTINF:-1 tvg-chno="002" tvg-name="湖南卫视" group-title="芒果湖南",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="003" tvg-name="湖南卫视高清" group-title="芒果湖南",湖南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="004" tvg-name="湖南经视高清" group-title="芒果湖南",湖南经视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="005" tvg-name="湖南都市高清" group-title="芒果湖南",湖南都市高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="006" tvg-name="湖南电视剧高清" group-title="芒果湖南",湖南电视剧高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="007" tvg-name="湖南电影高清" group-title="芒果湖南",湖南电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="008" tvg-name="湖南娱乐高清" group-title="芒果湖南",湖南娱乐高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="009" tvg-name="金鹰纪实高清" group-title="芒果湖南",金鹰纪实高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="010" tvg-name="湖南爱晚高清" group-title="芒果湖南",湖南爱晚高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="011" tvg-name="湖南国际高清" group-title="芒果湖南",湖南国际高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047426/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="012" tvg-name="金鹰卡通高清" group-title="芒果湖南",金鹰卡通高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="013" tvg-name="快乐购高清" group-title="芒果湖南",快乐购高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047427/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="014" tvg-name="湖南教育高清" group-title="芒果湖南",湖南教育高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="135" tvg-name="娄底综合高清" group-title="芒果湖南",娄底综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401158/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="202" tvg-name="湖南经视" group-title="芒果湖南",湖南经视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182567/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="203" tvg-name="湖南都市" group-title="芒果湖南",湖南都市
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182308/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="204" tvg-name="湖南电视剧" group-title="芒果湖南",湖南电视剧
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182309/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="205" tvg-name="湖南电影" group-title="芒果湖南",湖南电影
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182320/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="206" tvg-name="湖南娱乐" group-title="芒果湖南",湖南娱乐
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182313/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="207" tvg-name="金鹰纪实" group-title="芒果湖南",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182315/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="208" tvg-name="湖南爱晚" group-title="芒果湖南",湖南爱晚
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182310/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="209" tvg-name="湖南国际" group-title="芒果湖南",湖南国际
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182307/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="210" tvg-name="金鹰卡通" group-title="芒果湖南",金鹰卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182316/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="211" tvg-name="快乐购" group-title="芒果湖南",快乐购
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182544/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="212" tvg-name="湖南教育" group-title="芒果湖南",湖南教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104065/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="565" tvg-name="冷水江新闻综合高清" group-title="芒果湖南",冷水江新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609485691532201307235032/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+# ===== 芒果央视 =====
+#EXTINF:-1 tvg-chno="001" tvg-name="CCTV1高清" group-title="芒果央视",CCTV1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="037" tvg-name="CCTV2高清" group-title="芒果央视",CCTV2高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="038" tvg-name="CCTV3高清" group-title="芒果央视",CCTV3高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="039" tvg-name="CCTV4高清" group-title="芒果央视",CCTV4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="040" tvg-name="CCTV5高清" group-title="芒果央视",CCTV5高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="041" tvg-name="CCTV6高清" group-title="芒果央视",CCTV6高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="042" tvg-name="CCTV7高清" group-title="芒果央视",CCTV7高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="043" tvg-name="CCTV8高清" group-title="芒果央视",CCTV8高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="044" tvg-name="CCTV9高清" group-title="芒果央视",CCTV9高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="045" tvg-name="CCTV10高清" group-title="芒果央视",CCTV10高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="046" tvg-name="CCTV11高清" group-title="芒果央视",CCTV11高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="047" tvg-name="CCTV12高清" group-title="芒果央视",CCTV12高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="048" tvg-name="CCTV13高清" group-title="芒果央视",CCTV13高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="049" tvg-name="CCTV14高清" group-title="芒果央视",CCTV14高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="050" tvg-name="CCTV15高清" group-title="芒果央视",CCTV15高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="051" tvg-name="CCTV16" group-title="芒果央视",CCTV16
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="052" tvg-name="CCTV17高清" group-title="芒果央视",CCTV17高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="053" tvg-name="CCTV5+高清" group-title="芒果央视",CCTV5+高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="054" tvg-name="CGTN" group-title="芒果央视",CGTN
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="055" tvg-name="CGTN纪录" group-title="芒果央视",CGTN纪录
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="226" tvg-name="CCTV1" group-title="芒果央视",CCTV1
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="227" tvg-name="CCTV2" group-title="芒果央视",CCTV2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182301/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="228" tvg-name="CCTV3" group-title="芒果央视",CCTV3
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047455/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="229" tvg-name="CCTV4" group-title="芒果央视",CCTV4
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181629/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="230" tvg-name="CCTV5" group-title="芒果央视",CCTV5
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047456/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="231" tvg-name="CCTV6" group-title="芒果央视",CCTV6
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047457/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="232" tvg-name="CCTV7" group-title="芒果央视",CCTV7
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181764/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="233" tvg-name="CCTV8" group-title="芒果央视",CCTV8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047458/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="234" tvg-name="CCTV9" group-title="芒果央视",CCTV9
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182545/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="235" tvg-name="CCTV10" group-title="芒果央视",CCTV10
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182294/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="236" tvg-name="CCTV11" group-title="芒果央视",CCTV11
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182300/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="237" tvg-name="CCTV12" group-title="芒果央视",CCTV12
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181939/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="238" tvg-name="CCTV13" group-title="芒果央视",CCTV13
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182324/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="239" tvg-name="CCTV14" group-title="芒果央视",CCTV14
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181940/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="240" tvg-name="CCTV15" group-title="芒果央视",CCTV15
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181941/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="242" tvg-name="CCTV17" group-title="芒果央视",CCTV17
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024151/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="243" tvg-name="CCTV5+" group-title="芒果央视",CCTV5+
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182561/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="245" tvg-name="CCTV4欧洲" group-title="芒果央视",CCTV4欧洲
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="246" tvg-name="CCTV4美洲" group-title="芒果央视",CCTV4美洲
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305581/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="247" tvg-name="CGTN西班牙语" group-title="芒果央视",CGTN西班牙语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305582/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="248" tvg-name="CGTN法语" group-title="芒果央视",CGTN法语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305586/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="249" tvg-name="CGTN阿拉伯语" group-title="芒果央视",CGTN阿拉伯语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305587/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="250" tvg-name="CGTN俄语" group-title="芒果央视",CGTN俄语
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="310" tvg-name="CCTV16 4K" group-title="芒果央视",CCTV16 4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="311" tvg-name="CCTV4K" group-title="芒果央视",CCTV4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+# ===== 综合频道 =====
+#EXTINF:-1 tvg-chno="057" tvg-name="CETV-1高清" group-title="综合频道",CETV-1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="061" tvg-name="江苏卫视" group-title="综合频道",江苏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="062" tvg-name="浙江卫视" group-title="综合频道",浙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="063" tvg-name="安徽卫视高清" group-title="综合频道",安徽卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="064" tvg-name="北京卫视" group-title="综合频道",北京卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="065" tvg-name="天津卫视高清" group-title="综合频道",天津卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="066" tvg-name="东方卫视" group-title="综合频道",东方卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="067" tvg-name="江西卫视高清" group-title="综合频道",江西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="068" tvg-name="深圳卫视" group-title="综合频道",深圳卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="069" tvg-name="辽宁卫视高清" group-title="综合频道",辽宁卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="070" tvg-name="东南卫视高清" group-title="综合频道",东南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="071" tvg-name="海南卫视高清" group-title="综合频道",海南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208265/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="072" tvg-name="广东卫视" group-title="综合频道",广东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="073" tvg-name="湖北卫视高清" group-title="综合频道",湖北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="074" tvg-name="广西卫视高清" group-title="综合频道",广西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="075" tvg-name="山东卫视" group-title="综合频道",山东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047448/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="076" tvg-name="四川卫视" group-title="综合频道",四川卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="077" tvg-name="重庆卫视高清" group-title="综合频道",重庆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="078" tvg-name="云南卫视高清" group-title="综合频道",云南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="079" tvg-name="河南卫视高清" group-title="综合频道",河南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="080" tvg-name="黑龙江卫视高清" group-title="综合频道",黑龙江卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="081" tvg-name="贵州卫视高清" group-title="综合频道",贵州卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="082" tvg-name="河北卫视高清" group-title="综合频道",河北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="083" tvg-name="吉林卫视高清" group-title="综合频道",吉林卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="084" tvg-name="陕西卫视高清" group-title="综合频道",陕西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="085" tvg-name="山西卫视高清" group-title="综合频道",山西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="086" tvg-name="内蒙古卫视高清" group-title="综合频道",内蒙古卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="087" tvg-name="宁夏卫视高清" group-title="综合频道",宁夏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="088" tvg-name="西藏卫视高清" group-title="综合频道",西藏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="089" tvg-name="新疆卫视高清" group-title="综合频道",新疆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="090" tvg-name="甘肃卫视高清" group-title="综合频道",甘肃卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="091" tvg-name="卡酷少儿高清" group-title="综合频道",卡酷少儿高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="092" tvg-name="优漫卡通" group-title="综合频道",优漫卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182321/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="093" tvg-name="青海卫视高清" group-title="综合频道",青海卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="096" tvg-name="山东教育" group-title="综合频道",山东教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007227/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="097" tvg-name="厦门卫视" group-title="综合频道",厦门卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381023/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="098" tvg-name="兵团卫视高清" group-title="综合频道",兵团卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381024/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="099" tvg-name="嘉佳卡通" group-title="综合频道",嘉佳卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381025/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="100" tvg-name="纪实科教高清" group-title="综合频道",纪实科教高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="109" tvg-name="CETV-2" group-title="综合频道",CETV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="110" tvg-name="CETV-4高清" group-title="综合频道",CETV-4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="142" tvg-name="天元围棋高清" group-title="综合频道",天元围棋高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040365/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="143" tvg-name="梨园高清" group-title="综合频道",梨园高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308847/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="144" tvg-name="四海钓鱼高清" group-title="综合频道",四海钓鱼高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040367/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="145" tvg-name="快乐垂钓高清" group-title="综合频道",快乐垂钓高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040368/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="146" tvg-name="文物宝库高清" group-title="综合频道",文物宝库高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308848/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="151" tvg-name="优优宝贝" group-title="综合频道",优优宝贝
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040377/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="152" tvg-name="老故事" group-title="综合频道",老故事
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448839/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="154" tvg-name="财富天下高清" group-title="综合频道",财富天下高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040380/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="155" tvg-name="武术世界高清" group-title="综合频道",武术世界高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308859/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="156" tvg-name="家庭影院高清" group-title="综合频道",家庭影院高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="157" tvg-name="影迷电影高清" group-title="综合频道",影迷电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448841/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="158" tvg-name="动作电影高清" group-title="综合频道",动作电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="159" tvg-name="书画" group-title="综合频道",书画
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448843/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="162" tvg-name="环球旅游高清" group-title="综合频道",环球旅游高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="166" tvg-name="国学" group-title="综合频道",国学
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32022110411133186725376756113972/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="169" tvg-name="卫生健康高清" group-title="综合频道",卫生健康高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047454/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="170" tvg-name="第一剧场" group-title="综合频道",第一剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244808/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="171" tvg-name="风云剧场" group-title="综合频道",风云剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244807/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="172" tvg-name="风云音乐" group-title="综合频道",风云音乐
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244809/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="173" tvg-name="风云足球" group-title="综合频道",风云足球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244800/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="174" tvg-name="怀旧剧场" group-title="综合频道",怀旧剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="175" tvg-name="女性时尚" group-title="综合频道",女性时尚
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244811/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="176" tvg-name="央视文化精品" group-title="综合频道",央视文化精品
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244810/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="177" tvg-name="世界地理" group-title="综合频道",世界地理
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244805/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="178" tvg-name="央视台球" group-title="综合频道",央视台球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244803/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="179" tvg-name="兵器科技" group-title="综合频道",兵器科技
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244796/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="180" tvg-name="电视指南" group-title="综合频道",电视指南
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244797/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="181" tvg-name="高尔夫网球" group-title="综合频道",高尔夫网球
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244801/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="182" tvg-name="早期教育" group-title="综合频道",早期教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023060222354368427501888132813/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="183" tvg-name="中学生" group-title="综合频道",中学生
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398013/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="184" tvg-name="环球奇观" group-title="综合频道",环球奇观
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416181029613614091027931/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="186" tvg-name="多彩文体4K" group-title="综合频道",多彩文体4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210575059626176209727023/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="187" tvg-name="都市剧场高清" group-title="综合频道",都市剧场高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210583485808646614571396/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="188" tvg-name="动漫秀场高清" group-title="综合频道",动漫秀场高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210585548805959716256407/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="192" tvg-name="法治天地高清" group-title="综合频道",法治天地高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210594333901402503226852/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="193" tvg-name="金色学堂高清" group-title="综合频道",金色学堂高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619522/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="195" tvg-name="中国天气高清" group-title="综合频道",中国天气高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="196" tvg-name="游戏风云高清" group-title="综合频道",游戏风云高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="197" tvg-name="乐游高清" group-title="综合频道",乐游高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="198" tvg-name="生活时尚高清" group-title="综合频道",生活时尚高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="199" tvg-name="东方财经高清" group-title="综合频道",东方财经高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="253" tvg-name="安徽卫视" group-title="综合频道",安徽卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182280/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="255" tvg-name="天津卫视" group-title="综合频道",天津卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182588/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="257" tvg-name="江西卫视" group-title="综合频道",江西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182287/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="259" tvg-name="辽宁卫视" group-title="综合频道",辽宁卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000176343/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="260" tvg-name="东南卫视" group-title="综合频道",东南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182255/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="261" tvg-name="海南卫视" group-title="综合频道",海南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181765/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="263" tvg-name="湖北卫视" group-title="综合频道",湖北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182285/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="264" tvg-name="广西卫视" group-title="综合频道",广西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182256/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="267" tvg-name="重庆卫视" group-title="综合频道",重庆卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182258/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="268" tvg-name="云南卫视" group-title="综合频道",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182259/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="269" tvg-name="河南卫视" group-title="综合频道",河南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182260/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="270" tvg-name="黑龙江卫视" group-title="综合频道",黑龙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182571/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="271" tvg-name="贵州卫视" group-title="综合频道",贵州卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182262/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="272" tvg-name="河北卫视" group-title="综合频道",河北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182263/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="273" tvg-name="吉林卫视" group-title="综合频道",吉林卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182264/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="274" tvg-name="陕西卫视" group-title="综合频道",陕西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182270/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="280" tvg-name="甘肃卫视" group-title="综合频道",甘肃卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182276/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="281" tvg-name="卡酷少儿" group-title="综合频道",卡酷少儿
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182277/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="283" tvg-name="青海卫视" group-title="综合频道",青海卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182317/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="296" tvg-name="四川康巴卫视" group-title="综合频道",四川康巴卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000134000000367619/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="297" tvg-name="延边卫视" group-title="综合频道",延边卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023031709181220216556910725802/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="298" tvg-name="三沙卫视高清" group-title="综合频道",三沙卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="312" tvg-name="北京卫视4K" group-title="综合频道",北京卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025041016455754529971118212688/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="313" tvg-name="江苏卫视4K" group-title="综合频道",江苏卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="314" tvg-name="浙江卫视4K" group-title="综合频道",浙江卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262252695540491433081/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="317" tvg-name="东方卫视4K" group-title="综合频道",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="319" tvg-name="深圳卫视4K" group-title="综合频道",深圳卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216044934209640975946187/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="323" tvg-name="广东卫视4K" group-title="综合频道",广东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216045554851550640574941/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="326" tvg-name="山东卫视4K" group-title="综合频道",山东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="327" tvg-name="四川卫视4K" group-title="综合频道",四川卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698869/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="351" tvg-name="睛彩竞技高清" group-title="综合频道",睛彩竞技高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111555400855986165639/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="352" tvg-name="睛彩篮球高清" group-title="综合频道",睛彩篮球高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111668658815457769670/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="353" tvg-name="睛彩青少高清" group-title="综合频道",睛彩青少高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111656963850583145855/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
+#EXTINF:-1 tvg-chno="354" tvg-name="睛彩广场舞高清" group-title="综合频道",睛彩广场舞高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111537135226432583276/main.m3u8?stbid=004901FF0001061003B354C57AA8AE6A
+
